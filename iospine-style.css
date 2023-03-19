@@ -1,0 +1,106 @@
+#container{
+    width: 28em;
+    border: 1px solid black;
+    height: 100%;
+}
+.secondList{
+    float: right;
+    margin-top: -8em;
+}
+
+#ict{
+    text-align: center;
+    color: rgb(161, 30, 30);
+    line-height: 0.3em;
+    font-size: 50px;
+    font-weight: 25px;
+}
+h6{
+    background-color: black;
+    color: white;
+    font-size: large;
+    width: 9em;
+    position: relative;
+    left: 130px;
+}
+h2{
+    text-align: center;
+}
+.become{
+    text-align: center;
+    line-height: 0;
+    font-size: 40px;
+    font-weight: 15px;
+    
+}
+.competent{
+    text-align: center;
+    line-height: 0em;
+    font-size: 50px;
+    font-weight: 20px;
+}
+main{
+    border: 1px solid black;
+    margin-left: 1.2em;
+    width: 25em;
+}
+h4{
+    background-color: black;
+    color: white;
+    width: 8em;
+    position: relative;
+    top: -80px;
+    left: 130px;
+    margin: 0;
+  }
+
+.iospine{
+    position: relative;
+    left: 123px;
+    transform: rotateY(180deg);
+    width: 50%
+}
+
+ul{
+    list-style-type: none;
+}
+
+ul li::before{
+    content: "\0025A0";
+    width: 2em;
+    color: rgb(161, 30, 30);
+    display: inline-block;
+    margin-left: -1em;
+    padding: 1px;
+}
+
+.contact{
+    background-color: rgb(161, 30, 30);
+    margin-top: -40px;
+    padding: 2em 0 0 0;
+}
+
+
+p.registration{
+    margin: 0 0 0 35%;
+    background-color: white;
+    color: rgb(161, 30, 30);
+    width: 8em
+}
+
+ .phone{
+    display: inline-block;
+    color: white;
+    width: 8em;
+    font-size: larger;
+    /* margin-top: 40px; */
+    /* margin-left: 50%; */
+}
+
+.photo{
+    width: 7%;
+    margin-left: 35%;
+    margin-top: 10px;
+
+}
+
